@@ -27,4 +27,4 @@ This project provides a Python library for performing common matrix and vector o
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/matrix-vector-operations.git
+   git clone https://github.com/jorgebjr28/MatrixOperationsProject.git
